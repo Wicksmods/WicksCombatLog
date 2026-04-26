@@ -1,3 +1,5 @@
+<p align="center"><img src="images/wick-thumb-combat.png" alt="Wick's Combat Log"></p>
+
 # Wick's Combat Log
 
 > Raw `COMBAT_LOG_EVENT_UNFILTERED` viewer. Every subevent, every arg — the fields Blizzard's default chat log strips out.
