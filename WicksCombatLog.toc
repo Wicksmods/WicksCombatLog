@@ -1,0 +1,10 @@
+## Interface: 20505
+## Title: Wick's Combat Log
+## Notes: Raw COMBAT_LOG_EVENT_UNFILTERED viewer. Live event list with filters and side-panel raw-arg inspection.
+## Author: Wick
+## Version: 0.1.0
+## SavedVariables: WCLSettings
+
+Core.lua
+UI.lua
+Detail.lua
