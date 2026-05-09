@@ -1,6 +1,6 @@
 # Wick's Combat Log — Changelog
 
-## 0.1.1 — 2026-04-26
+## 0.1.1 - 2026-04-26
 
 ### Fixes the "type /wcl twice to open" bug + title bar slim revert
 
@@ -8,7 +8,7 @@
 - **Title bar slim revert** — reverted the heavier 32px header from 0.1.0 to the slim CD-Tracker chrome the rest of the suite uses (22px, FRIZQT 12 no outline, plain `×` close button, drop the fel-green underline). Two-tone title color (`Wick's` in fel-green, `Combat Log` in cream) is kept.
 - **Close-button glyph fix** — the previous `✕` (U+2715) rendered as a tofu/missing-glyph box in `Fonts\FRIZQT__.TTF`. Swapped to `×` (U+00D7) which renders cleanly.
 
-## 0.1.0 — 2026-04-25
+## 0.1.0 - 2026-04-25
 
 ### Initial release
 
